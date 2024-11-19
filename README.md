@@ -72,5 +72,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BoualiWejdene&show_icons=true&locale=en&layout=compact" alt="BoualiWejdene" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BoualiWejdene&show_icons=true&locale=en" alt="BoualiWejdene" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BoualiWejdene&" alt="BoualiWejdene" /></p>
