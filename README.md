@@ -18,7 +18,7 @@ I love coding, building cool projects, and exploring the latest tech!
   
 <hr/> 
 
-### 📧 Contact
+### 📫 Contact
 
 <div> 
   <a href="mailto:wejdenebouali.wb@gmail.com">
@@ -39,6 +39,7 @@ I love coding, building cool projects, and exploring the latest tech!
 
  ### 🏆 Certifications
 
+- 🎓 **Intro to AI** - **365 DataScience** (2024)
 - 🎓 **Scrum Fundamentals Certified (SFC)** - **ScrumStudy** (2024)
 - 🎓 **Postman API Fundamentals Student Expert** - **Postman** (2024)
 - 🎓 **Getting Started in Google Analytics** - **Coursera** (2024)
