@@ -48,7 +48,7 @@
  
 ## 📚 Academic Projects
 
-#### 1. 📋 **[Unitrucker](https://github.com/BoualiWejdene/Unitrucker)**
+#### 1. 📋 **[Unitracker](https://github.com/BoualiWejdene/Unitrucker)**
 - **Description**: Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.
 - **Technologies Used**: Angular, Spring Boot, MySQL, Scrum
 
@@ -58,7 +58,7 @@
 
  <hr/>
 
- ## 🏆 Certifications
+ ## 🏆 Certificats
  
 - 🎓 **Intro to AI** - **365 DataScience** (2024)
 - 🎓 **Scrum Fundamentals Certified (SFC)** - **ScrumStudy** (2024)
