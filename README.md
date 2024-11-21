@@ -50,7 +50,7 @@
 
 #### 1. 📋 **[Unitracker](https://github.com/BoualiWejdene/Unitrucker)**
 - **Description**: Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.
-- **Technologies Used**: Angular, Spring Boot, MySQL, Scrum
+- **Technologies Used**: Angular, Spring Boot, MySQL
 
 #### 2. 🏥 **[MedPlus](https://github.com/BoualiWejdene/Projet_MedPlus)**
 - **Description**: Developing a medical practice management application to help doctors and secretaries manage patient data and simplify appointment scheduling for patients.
@@ -58,7 +58,7 @@
 
  <hr/>
 
- ## 🏆 Certificats
+ ## 🏆 Certificates
  
 - 🎓 **Intro to AI** - **365 DataScience** (2024)
 - 🎓 **Scrum Fundamentals Certified (SFC)** - **ScrumStudy** (2024)
